@@ -1,6 +1,7 @@
 ---
 title: "Call for Papers"
 permalink: /call/
+layout: home
 date: 2016-02-24T03:02:20+00:00
 ---
 
