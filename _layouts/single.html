@@ -19,8 +19,7 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  <h1>TESTING</h1>
-  {% include sidebar.html %}
+  
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -61,7 +60,7 @@ layout: default
         {% include page__date.html %}
       </footer>
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
+     
 
       {% include post_pagination.html %}
     </div>
