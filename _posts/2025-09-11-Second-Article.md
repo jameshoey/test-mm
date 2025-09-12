@@ -1,8 +1,8 @@
-header:
-  teaser: "/assets/postimages/1.png"
-
 ---
 title: "Edge Case: Nested and Mixed Lists"
+excerpt: "A unique line of text to descirbe this"
+header:
+  teaser: "/assets/postimages/1.png"
 categories:
   - Edge Case
 tags:
