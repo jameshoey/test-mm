@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "NULL 2025"
 title_separator          : "-"
-subtitle                 : "1st Annual (hopefully!) Conference on Needlessly Unhelpful Logic and Layouts" # site tagline that appears below site title in masthead
+subtitle                 : "1st Annual (hopefully!) Conference" # on Needlessly Unhelpful Logic and Layouts" # site tagline that appears below site title in masthead
 name                     : "NULL 2025"
 description              : "If it works efficiently, we're not interested"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
