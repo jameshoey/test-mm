@@ -6,5 +6,5 @@ main:
     url: /committee/
   - title: "Proceedings"
     url: /proceedings/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Awards"
+    url: /awards/
