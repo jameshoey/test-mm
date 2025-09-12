@@ -1,3 +1,6 @@
+header:
+  teaser: "/assets/postimages/1.png"
+
 ---
 title: "Edge Case: Nested and Mixed Lists"
 categories:
